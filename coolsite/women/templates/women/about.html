@@ -1,0 +1,10 @@
+{% extends 'women/base.html' %}
+{% block content %}
+<h1>{{title}}</h1>
+{% for contact in page_obj %}
+{{ contact }}<br>
+{% endfor %}
+{% for number in page_obj.paginator.page_range %}
+<a href="?page={{number}}">{{number}}</a>
+{% endfor %}
+{% endblock %}
