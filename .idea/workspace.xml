@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8813ab7-0b1f-4eea-862e-5172e4ec073a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1voO0xl8TJFKeR3nyteutK9IQHE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/djproj" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coolsite/women" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8813ab7-0b1f-4eea-862e-5172e4ec073a" name="Default Changelist" comment="" />
+      <created>1627224756179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627224756179</updated>
+      <workItem from="1627224757548" duration="1198000" />
+      <workItem from="1627243663325" duration="2419000" />
+      <workItem from="1627329719714" duration="3941000" />
+      <workItem from="1627406957742" duration="8007000" />
+      <workItem from="1627494330881" duration="6628000" />
+      <workItem from="1627509706234" duration="5809000" />
+      <workItem from="1627602710152" duration="3596000" />
+      <workItem from="1627655757689" duration="15136000" />
+      <workItem from="1627726423082" duration="33000" />
+      <workItem from="1627735768166" duration="2446000" />
+      <workItem from="1627765051266" duration="7388000" />
+      <workItem from="1627838612289" duration="2030000" />
+      <workItem from="1627849627762" duration="5409000" />
+      <workItem from="1627870360598" duration="3731000" />
+      <workItem from="1627930715974" duration="5630000" />
+      <workItem from="1627938705184" duration="1254000" />
+      <workItem from="1627996369050" duration="13167000" />
+      <workItem from="1628030276296" duration="2324000" />
+      <workItem from="1628082559744" duration="3287000" />
+      <workItem from="1628098774809" duration="332000" />
+      <workItem from="1628099795892" duration="7120000" />
+      <workItem from="1628157908516" duration="4587000" />
+      <workItem from="1628194694123" duration="683000" />
+      <workItem from="1628202173411" duration="1885000" />
+      <workItem from="1628244680434" duration="9714000" />
+      <workItem from="1628288335128" duration="5699000" />
+      <workItem from="1628334672941" duration="4101000" />
+      <workItem from="1628356016244" duration="13000" />
+      <workItem from="1628378168165" duration="2739000" />
+      <workItem from="1628438899477" duration="1869000" />
+      <workItem from="1628457033118" duration="731000" />
+      <workItem from="1628531825824" duration="4171000" />
+      <workItem from="1628547530455" duration="90000" />
+      <workItem from="1628631426904" duration="8935000" />
+      <workItem from="1628693389270" duration="2412000" />
+      <workItem from="1628715925414" duration="1386000" />
+      <workItem from="1628762647663" duration="1758000" />
+      <workItem from="1628788311990" duration="3099000" />
+      <workItem from="1628800923973" duration="1779000" />
+      <workItem from="1628871281327" duration="7256000" />
+      <workItem from="1628956924759" duration="2163000" />
+      <workItem from="1628980168291" duration="5099000" />
+      <workItem from="1629119697908" duration="1217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
