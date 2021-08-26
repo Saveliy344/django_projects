@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="628ca5df-e5e5-4996-9889-b237cbd96d78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GGScience/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GGScience/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GGScience/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GGScience/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GGScience/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/static/Scientists/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/templates/Scientists/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/templates/Scientists/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/templates/Scientists/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/templates/Scientists/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/templates/Scientists/show_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/templatetags/Scientists_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scientists/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/PMhotos/2021/08/18/274px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/PMhotos/2021/08/18/274px-Einstein_1921_by_F_Schmutzer_-_restoration_cVg0dDy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/PMhotos/2021/08/18/274px-Einstein_1921_by_F_Schmutzer_-_restoration_j3meZ9I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/.idea/coolsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite_cache/137f71e1c9c8601c5f892f763477277a.djcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite_cache/4bfd02f660caf088996143a421126be5.djcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite_cache/68be86131b916744b668684e7ea922f0.djcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite_cache/aadef11d44e3e08a8106b37cc15dfece.djcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/coolsite_cache/e87d0b3e83c6657b2c9b9addb83ba361.djcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/05/2WiTe3--w-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/05/2WiTe3--w-0_GAOXE07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/05/2WiTe3--w-0_M7OOvr1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/06/1561370466150718583.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/06/220px-Billie_Eilish_2019_by_Glenn_Francis_cropped_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/06/250px-Julianne_Moore_Cannes_2018_tweaked.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/06/250px-Natalie_Portman_48470988352_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/06/250px-Nicole_Kidman_Cannes_2017_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/06/274px-Lana_Del_Rey__Grammy_Museum_10_13_2019_49311023203.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/AMhotos/2021/08/06/Без_названия.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/07/31/Ариана.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/01/360.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/01/96c8f945e3b2bbfb20e5432c5195cca0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/01/AN_Bree_Olson_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/01/Angelina_Jolie_2_June_2014_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/01/Ariana-Grande-03.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/01/Emma.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/02/3358-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/02/441x460_0_8514432512988b10187644fd455572ed478x499_0x0a330c9a_1527344_JjvBDPY.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/02/bree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/02/emma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/02/licensed-image.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/02/nudes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/02/nudes_jNX3RA2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/02/scale_1200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/02/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/03/2WiTe3--w-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/03/tasyakay777_227295098_411676200267354_6500581508857835512_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/04/2WiTe3--w-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/04/432087065-yellow-moon-rv9W-1920x1080-MM-100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/04/432087065-yellow-moon-rv9W-1920x1080-MM-100_62DXSPr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/04/filter_filters_funnel_list_navigation_sort_sorting_icon_123212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/04/filter_filters_funnel_list_navigation_sort_sorting_icon_123212_8MCpzpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/04/filter_filters_funnel_list_navigation_sort_sorting_icon_123212_GmOBrwr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/04/guryanov1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/04/pic_5q1sla4paomvfhvi253ufabvo0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/04/tasyakay777_227295098_411676200267354_6500581508857835512_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/13/665f7969-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/13/Mia-Khalifa-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/media/PMhotos/2021/08/13/eshlinn-bruk-golaya-ashlynn-brooke-nude_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/static/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/static/women/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/static/women/images/blockquote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/static/women/images/btn_yt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/static/women/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/static/women/images/main.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/static/women/images/share_yt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/static/women/images/smallmenu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/addpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/list_categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/list_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templates/women/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/templatetags/women_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolsite/women/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Djsites.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Djsites.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/.idea/coolsite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite_cache/137f71e1c9c8601c5f892f763477277a.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite_cache/4bfd02f660caf088996143a421126be5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite_cache/68be86131b916744b668684e7ea922f0.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite_cache/aadef11d44e3e08a8106b37cc15dfece.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/coolsite_cache/e87d0b3e83c6657b2c9b9addb83ba361.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/05/2WiTe3--w-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/05/2WiTe3--w-0_GAOXE07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/05/2WiTe3--w-0_M7OOvr1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/06/1561370466150718583.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/06/220px-Billie_Eilish_2019_by_Glenn_Francis_cropped_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/06/250px-Julianne_Moore_Cannes_2018_tweaked.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/06/250px-Natalie_Portman_48470988352_cropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/06/250px-Nicole_Kidman_Cannes_2017_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/06/274px-Lana_Del_Rey__Grammy_Museum_10_13_2019_49311023203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/AMhotos/2021/08/06/Без_названия.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/07/31/Ариана.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/01/360.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/01/96c8f945e3b2bbfb20e5432c5195cca0.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/01/AN_Bree_Olson_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/01/Angelina_Jolie_2_June_2014_cropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/01/Ariana-Grande-03.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/01/Emma.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/02/3358-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/02/441x460_0_8514432512988b10187644fd455572ed478x499_0x0a330c9a_1527344_JjvBDPY.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/02/bree.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/02/emma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/02/licensed-image.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/02/nudes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/02/nudes_jNX3RA2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/02/scale_1200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/02/unnamed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/03/2WiTe3--w-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/03/tasyakay777_227295098_411676200267354_6500581508857835512_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/04/2WiTe3--w-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/04/432087065-yellow-moon-rv9W-1920x1080-MM-100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/04/432087065-yellow-moon-rv9W-1920x1080-MM-100_62DXSPr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/04/filter_filters_funnel_list_navigation_sort_sorting_icon_123212.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/04/filter_filters_funnel_list_navigation_sort_sorting_icon_123212_8MCpzpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/04/filter_filters_funnel_list_navigation_sort_sorting_icon_123212_GmOBrwr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/04/guryanov1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/04/pic_5q1sla4paomvfhvi253ufabvo0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/04/tasyakay777_227295098_411676200267354_6500581508857835512_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/13/665f7969-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/13/Mia-Khalifa-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/media/PMhotos/2021/08/13/eshlinn-bruk-golaya-ashlynn-brooke-nude_4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/templates/admin/base_site.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/static/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/static/women/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/static/women/images/blockquote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/static/women/images/btn_yt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/static/women/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/static/women/images/main.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/static/women/images/share_yt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/static/women/images/smallmenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/addpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/list_categories.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/list_menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templates/women/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templatetags/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/templatetags/women_tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coolsite/women/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1wxtEQhCKtsG4DIJ5WKxijHhDI7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="GGScience" type="Python.DjangoServer" factoryName="Django server">
+      <module name="GGScience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="628ca5df-e5e5-4996-9889-b237cbd96d78" name="Default Changelist" comment="" />
+      <created>1629411956082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629411956082</updated>
+      <workItem from="1629411957584" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
