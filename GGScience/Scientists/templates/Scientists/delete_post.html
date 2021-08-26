@@ -1,0 +1,8 @@
+{% extends 'Scientists/base.html' %}
+{% block content %}
+<form method="post">
+    {% csrf_token %}
+    <p>Вы уверены, что хотите удалить пост "{{post.title}}"?</p>
+    <input class="confirm" type="submit" value="Да">
+</form>
+{% endblock %}
