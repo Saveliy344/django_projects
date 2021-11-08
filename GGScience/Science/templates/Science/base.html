@@ -1,0 +1,32 @@
+{% extends 'main/main_base.html' %}
+{% load static %}
+{% load Scientists_tags %}
+	{% block left-list %}
+	<td valign="top" class="left-chapters">
+	<ul id="leftchapters">
+		{% if selected == 0 %}
+                   <li class="selected">Все науки</li>
+{% else %}
+                   <li><a href="{% url 'science' %}">Все науки</a></li>
+{% endif %}
+		{% for science in sciences %}
+		{% if selected == science.pk %}
+					   <li class="selected">{{science}}<li>
+		{% else %}
+					   <li><a href="{{ science.get_absolute_url }}">{{science}}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+</td>
+{% endblock %}
+{% block mainmenu %}
+		<div class="header">
+			<ul id="mainmenu" class="mainmenu">
+		<li><a href="{% url 'science' %}" class="GG_Science">GG Science</a></li>
+				<li><a href="{% url 'add_article' %}">Добавить статью</a></li>
+		{% menu %}
+				<li><a href="{% url 'home' %}">К учёным</a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+{% endblock %}

@@ -12,6 +12,9 @@ class Feedback(models.Model):
         verbose_name = 'Доклад'
         verbose_name_plural = 'Доклады'
 
+    def __str__(self):
+        return f"{self.time_create}: {self.text[:20]}"
+
 
 class Scientists(models.Model):
     title = models.CharField(max_length=255, verbose_name="Заголовок")
@@ -26,6 +29,7 @@ class Scientists(models.Model):
     class Meta:
         verbose_name = 'Учёный'
         verbose_name_plural = 'Ученые'
+        ordering = ['time_create']
 
     def __str__(self):
         return self.title

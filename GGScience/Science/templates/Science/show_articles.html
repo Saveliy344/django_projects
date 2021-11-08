@@ -1,0 +1,25 @@
+{% extends 'Science/base.html' %}
+{% block content %}
+<ul class="list-articles">
+    {% for p in posts %}
+    <li>
+        <div class="article-panel">
+            {% for sc in p.science.all %}
+            <p class="first">{{sc}}</p>
+            {% endfor %}
+            <p class="last">Дата последнего обновления: {{p.time_update|date:"d-m-Y H:i:s"}}</p>
+        </div>
+    <li><h2>{{p.title}}</h2>
+        {% autoescape on %}
+        {{p.content|linebreaks|truncatewords:50}}
+        {% endautoescape %}
+        <div class="clear"></div>
+        <div class="actions-post">
+            <p class="link-delete-post"><a href="{% url 'delete_article' p.slug %}">Удалить пост</a></p>
+            <p class="link-update-post"><a href="{% url 'edit_article' p.slug %}">Обновить пост</a></p>
+            <p class="link-read-post"><a href="{{ p.get_absolute_url }}">Читать пост</a></p>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+{% endblock %}

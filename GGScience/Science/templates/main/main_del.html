@@ -1,0 +1,6 @@
+<form method="post">
+    {% csrf_token %}
+    <p>Вы уверены, что хотите удалить пост "{{post.title}}"?</p>
+    <input class="confirm" type="submit" value="Да">
+    <a href="/"><input class="deny" type="button" value="Нет"></a>
+</form>

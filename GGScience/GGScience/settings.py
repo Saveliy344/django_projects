@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Scientists.apps.ScientistsConfig',
+    'Science.apps.ScienceConfig',
     'captcha',
     'debug_toolbar',
 ]
@@ -56,7 +57,7 @@ ROOT_URLCONF = 'GGScience.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -123,10 +124,10 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-CAPTCHA_FONT_SIZE = 24
+CAPTCHA_FONT_SIZE = 30
 CAPTCHA_LENGTH = 6
-CAPTCHA_LETTER_ROTATION = (45, 91)
-CAPTCHA_BACKGROUND_COLOR = '#333333'
+CAPTCHA_LETTER_ROTATION = (-15, 15)
+CAPTCHA_BACKGROUND_COLOR = '#FFFFFF'
 
 INTERNAL_IPS = [
     '127.0.0.1',
