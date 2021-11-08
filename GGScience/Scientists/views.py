@@ -131,7 +131,7 @@ class RegisterUser(Mixin, CreateView):
 
 class LoginUser(Mixin, LoginView):
     form_class = LoginUserForm
-    template_name = 'Scientists/login.html'
+    template_name = 'Scientists/reg_user.html'
 
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
@@ -144,6 +144,7 @@ class LoginUser(Mixin, LoginView):
 
 class FeedBack(Mixin, CreateView):
     form_class = FeedBackForm
+    slug_url_kwarg = 'slug_name'
     template_name = 'Scientists/feedback.html'
 
     def get_context_data(self, **kwargs):
