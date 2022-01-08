@@ -1,0 +1,11 @@
+{% extends 'main/main_page.html' %}
+{% block content %}
+<div class="anegdots">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">{{anegdot.category.name}}</h5>
+            <p class="card-text">{{anegdot.text|linebreaks}}</p>
+        </div>
+    </div>
+</div>
+{% endblock %}
