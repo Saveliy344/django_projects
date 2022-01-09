@@ -65,7 +65,7 @@ class Search(CategoryMixin, ListView):
 
     def get_context_data(self, *, object_list=None, **kwargs):
         context = super().get_context_data(**kwargs)
-        new_context = super().get_user_context(selected=-1, title='Анекдоты')
+        new_context = super().get_user_context(selected=-1, title='Анекдоты', search=self.request.GET.get('search'))
         return {**context, **new_context}
 
     def get_queryset(self):
