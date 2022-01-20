@@ -1,0 +1,40 @@
+#header{
+    background-color: #f8f9fa;
+}
+#site-name h1 a{
+    color: #000;
+}
+
+#user-tools{
+    color: #000;
+    font-size: 20px;
+}
+
+#header a:link, #header a:visited {
+    font-size: 20px;
+    color: #000;
+}
+
+#branding h1 a:visited {
+    color: #000;
+}
+
+.app-auth caption{
+    background-color: #f8f9fa;
+}
+
+.app-auth caption a:link, a:visited, a{
+    color: #000;
+}
+
+.app-main caption{
+    background-color: #f8f9fa;
+}
+
+.app-main caption a:link, a:visited, a{
+    color: #000;
+}
+
+.breadcrumbs{
+    background-color: #f8f9fa;
+}
