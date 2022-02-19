@@ -1,0 +1,39 @@
+.product_field {
+    max-width: 50%;
+    margin: 5px auto 5px;
+    border: #bdbdbd 2px solid;
+    min-width: 200px;
+}
+.left-block{
+    text-align: left;
+}
+.comment {
+    max-width: 50%;
+    margin: 5px auto 5px;
+    border: #797979 2px solid;
+    min-width: 200px;
+}
+
+.send_comment{
+    max-width: 50%;
+    margin: 5px auto 5px;
+    min-width: 200px;
+}
+
+.mini-photo{
+  max-width: 100px;
+  object-fit: cover;
+}
+
+.bold-text{
+    font-weight: 900;
+}
+
+.table{
+    border: 2px black solid;
+}
+
+.clear_link{
+    text-decoration: none;
+    color: #000;
+}

@@ -1,0 +1,44 @@
+{% extends 'main/base.html' %}
+{% load specifications %}
+{% block content %}
+<div class="col-md-10 text-center">
+    <div class="card product_field">
+        <h4 class="card-header">{{product.category.name}}</h4>
+        <img src="{{ product.photo.url }}" class="card-img-top">
+        <div class="card-body">
+            <h5 class="card-title">{{product.name}}</h5>
+            <div class="left-block">
+                {% get_specifications product %}
+                <p class="card-text">{{product.description}}</p>
+            </div>
+            <p class="card-footer">Цена: {{product.price}} руб.</p>
+            <div>
+                <a class="btn btn-primary" onclick="javascript:history.back(-2); return false;">Назад</a>
+                <form method="POST" id="add_to_cart">
+                    {% csrf_token %}
+                    <button type="submit" class="btn btn-success mt-2">Добавить в корзину</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <h3 class="text-center">Комментарии({{comments|length}})</h3>
+    <div class="card send_comment">
+        <form method="POST" id="add_comment">
+            {% csrf_token %}
+            {{form.as_p}}
+            <button type="submit" class="btn btn-primary" style="width: 50%; margin: 0 auto;">Добавить
+                комментарий
+            </button>
+        </form>
+    </div>
+    {% for comment in comments %}
+    <div class="card comment">
+        <div class="card-body">
+            <h5 class="card-title">{{comment.customer.user.username}}</h5>
+            <p class="card-text">{{comment.content}}</p>
+        </div>
+        <div class="card-footer">{{comment.time_updated|date:"d-m-o G:i:s"}}</div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

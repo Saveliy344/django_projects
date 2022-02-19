@@ -1,0 +1,37 @@
+{% extends 'main/base.html' %}
+{% block content %}
+<div class="col-md-10">
+    <h1 class="text-center">Заказ</h1>
+    <table class="table">
+        <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Наименование</th>
+            <th scope="col">Миниатюра</th>
+            <th scope="col">Количество</th>
+            <th scope="col">Стоимость</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for product in cart.products.all %}
+        <tr>
+            <th scope="row">{{forloop.counter}}</th>
+            <td><a href="{{ product.product.get_absolute_url }}" class="clear_link">{{product.product.name}}</a>
+            </td>
+            <td><img src="{{product.product.photo.url}}" alt="..." class="mini-photo"></td>
+            <td>
+                {{product.value}}
+            </td>
+            <td>{{product.cost}} руб.</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    <h2 class="text-center">Стоимость заказа: {{cart.cost}} рублей!</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{form.as_p}}
+        <button type="submit" class="btn btn-secondary">Оформить заказ</button>
+    </form>
+</div>
+{% endblock %}
